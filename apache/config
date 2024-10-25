@@ -1,3 +1,4 @@
+on: push
 httpd_dir=/etc/apache2
 show_names=0
 mime_types=/etc/mime.types
